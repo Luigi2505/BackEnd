@@ -6,7 +6,8 @@ Projeto final de desenvolvimento backend estendendo o servidor Spring Boot com K
 
 ## 👥 Integrantes do Grupo
 - **Luigi Bilyk de Oliveira**
-<!-- Adicione os demais integrantes do grupo aqui, caso houver -->
+- **Guilherme Zamboni**
+- **Eric Juan**
 
 ---
 
