@@ -12,7 +12,7 @@ Projeto final de desenvolvimento backend estendendo o servidor Spring Boot com K
 ---
 
 ## 📹 Link do Vídeo de Apresentação (YouTube)
-> **Vídeo no YouTube:** [Insira o link do seu vídeo aqui - Não Listado ou Público](https://youtu.be/SEU_LINK_AQUI)
+> **Vídeo no YouTube:** [](https://youtu.be/H3GhmhgY0Bk)
 
 ---
 
